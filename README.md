@@ -1,4 +1,4 @@
-![Image](images/rovers.JPG)
+![Image](images/rovers.jpg)
 # Flutter Docker Application :boom:
 
 Flutter Docker Application is the method by which I had integerated the Flutter Environment Using the Dart Setup
